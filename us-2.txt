@@ -1,0 +1,10 @@
+SCRUM:
+Es un marco de trabajo agil para gestionar proyectos en desarrollo de software, 
+el objetivo es entregar el trabajo al cliente de forma rapida y eficiente
+
+Los actores:
+Product Owner: define y prioriza el trabajo
+Scrum Master: protege al equipo y asegura el uso correcto de Scrum.
+Equipo de Desarrollo: Construye el producto
+
+El Sprint: Un ciclo de tiempo fijo y corto 1 a 4 semanas en el que se trabaja en tareas para que el producto 
