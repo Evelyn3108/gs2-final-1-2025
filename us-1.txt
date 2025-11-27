@@ -1,0 +1,9 @@
+*Requisito funcional
+Dice lo que debe hacer el sistema
+
+Ej: El sistema debe permitir que el usuario inicie sesion con su correo y contraseña
+
+*Requisito no funcional
+Este dice como debe funcionar el sistema o en que condiciones 
+
+Ej: El sistema debe cargar la pantalla principal en menos de 3 segundos
